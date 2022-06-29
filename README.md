@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm Diganth Prakash</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate Devops Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diganthp&label=Profile%20views&color=0e75b6&style=flat" alt="diganthp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diganthp&label=Profile%20views&color=0e75b6&style=flat-square" alt="diganthp" /> </p>
 
+- 🌱 I’m currently learning **Flask, D3.js, Amazon Web Services**
+
+- 👨‍💻 All of my projects are available at [https://github.com/diganthp](https://github.com/diganthp)
+
+- 💬 Ask me about **Microsoft Azure, CI/CD pipeline, Docker, Flask**
+
+- 📫 How to reach me **diganth.prakashr@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/10g7nU6JBE0PDp8wrp6vvlldJ3dar8Fid/view?usp=sharing](https://drive.google.com/file/d/10g7nU6JBE0PDp8wrp6vvlldJ3dar8Fid/view?usp=sharing)
+
+- ⚡ Fun fact **Achieved a silver medal at the Indian National Aquatic Championship**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diganthp&show_icons=true&locale=en" alt="diganthp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diganthp&" alt="diganthp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diganthp&theme=highcontrast" alt="diganthp" /></p>
