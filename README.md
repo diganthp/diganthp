@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diganth Prakash</h1>
-<h3 align="center">A passionate Devops Engineer from India <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/24/000000/external-india-flag-countrys-flags-justicon-lineal-color-justicon.png"/> </h3>
+<h3 align="center">A passionate Devops Engineer from India <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/48/000000/external-india-flag-countrys-flags-justicon-lineal-color-justicon.png"/> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diganthp&label=Profile%20views&color=0e75b6&style=flat-square" alt="diganthp" /> </p>
 
