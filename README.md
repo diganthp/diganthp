@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **diganth.prakashr@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/resumediganth](tinyurl.com/resumediganth)
+- 📄 Know about my experiences [https://github.com/diganthp/diganthp/blob/main/Diganth_Prakash_Resume.pdf](Diganth_Prakash Resume)
 
 - ⚡ Fun fact **Achieved a silver medal at the Indian National Aquatic Championship**
 
