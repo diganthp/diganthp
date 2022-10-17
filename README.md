@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Flask, D3.js, Amazon Web Services**
 
-- 👨‍💻 All of my projects are available at [github.com/diganthp](github.com/diganthp)
+- 👨‍💻 All of my projects are available at [Github - Diganth Prakash](https://www.github.com/diganthp)
 
 - 💬 Ask me about **Microsoft Azure, CI/CD pipeline, Docker, Flask**
 
 - 📫 How to reach me **diganth.prakashr@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/diganthp/diganthp/blob/main/Diganth_Prakash_Resume.pdf](github.com/diganthprakash_resume)
+- 📄 Know about my experiences [Diganth_Prakash_Resume](https://github.com/diganthp/diganthp/blob/main/Diganth_Prakash_Resume.pdf)
 
 - ⚡ Fun fact **Achieved a silver medal at the Indian National Aquatic Championship**
 
