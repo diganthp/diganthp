@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flask, D3.js, Amazon Web Services**
 
-- 👨‍💻 All of my projects are available at **https://www.github.com/diganthp**
+- 👨‍💻 All of my projects are available at **https://github.com/diganthp**
 
 - 💬 Ask me about **Microsoft Azure, CI/CD pipeline, Docker, Flask**
 
