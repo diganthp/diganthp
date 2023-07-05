@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*OF0xEMkWBv-69zvmNs6RDQ.gif)](https://github.com/diganthp)
 <h1 align="center">Hi 👋, I'm Diganth Prakash</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
